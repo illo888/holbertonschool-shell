@@ -1,0 +1,8 @@
+#!/bin/bash
+
+if [ -f /tmp/betty ]; then
+  mv /tmp/betty /tmp/my_first_directory/
+else
+  echo "الملف betty غير موجود في /tmp/"
+fi
+mv /tmp/betty /tmp/my_first_directory
