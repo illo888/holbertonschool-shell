@@ -1,2 +1,4 @@
 #!/bin/bash
-env
+for var in $(compgen -v); do
+  echo "$var=${!var}"
+done
