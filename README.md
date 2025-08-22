@@ -1,12 +1,6 @@
-# Shell Init Files, Variables and Expansions
+# holbertonschool-shell
 
-Advanced shell environment management, variables, and expansions.
+This repository contains shell scripting exercises.
 
-## Description
-Master shell initialization, environment variables, arithmetic expansions, and aliases.
-
-## Structure
-- basics/: Basic shell commands and navigation
-- permissions/: File permissions and ownership management
-- io_redirections_and_filters/: I/O redirection and text processing
-- init_files_variables_and_expansions/: Variables, expansions, and environment
+## Basics
+Fundamental shell commands and scripts.
